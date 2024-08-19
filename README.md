@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jamin3000
 - 👀 I’m interested in Data Science, Data Engineering and using LLMs to automate busywork
-- 🌱 I’m currently learning how to rid the world of all sales people using ChatGPT
+- 🌱 I’m currently learning how to use LLMs to interpret engineering designs
 - 📫 Hit me up at jamin@aya.yale.edu 
 
 <!---
